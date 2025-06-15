@@ -1,0 +1,4 @@
+*.cmo
+*.cmi
+*.cmx
+__pycache__/

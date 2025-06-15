@@ -1,0 +1,3 @@
+[submodule "arche-proof"]
+	path = arche-proof
+	url = https://github.com/dhwcmoore/pde-boundaries-artifact.git
